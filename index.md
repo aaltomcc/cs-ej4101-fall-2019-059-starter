@@ -11,6 +11,7 @@ A wealthy American business magnate, playboy, and ingenious scientist, Anthony E
 
 ## Image and Diary Links
 
-- ![Horse Picture](https://www.pexels.com/photo/horse-near-trees-2928178)
+- Horse and Nature
+  ![Horse Picture](https://images.pexels.com/photos/2928178/pexels-photo-2928178.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 - Link to my [Diary](./diary-059.md)
